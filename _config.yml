@@ -1,0 +1,14 @@
+# Site settings
+title: ModernPGP
+email: hooray@moderpgp.org
+description: > # this means to ignore newlines until "baseurl:"
+  A working group that is bringing the party to the crypto by 
+  improving the state of all things PGP for developers to 
+  end users.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://modernpgp.org" # the base hostname & protocol for your site
+twitter_username: modernpgp
+github_username:  modernpgp
+
+# Build settings
+markdown: kramdown
