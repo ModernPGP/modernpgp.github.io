@@ -10,5 +10,7 @@ url: "http://modernpgp.org" # the base hostname & protocol for your site
 twitter_username: modernpgp
 github_username:  modernpgp
 
+exclude: ["CNAME"]
+
 # Build settings
 markdown: kramdown

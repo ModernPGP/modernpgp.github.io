@@ -1,3 +1,12 @@
+a.site-title img {
+  height: 30px; }
+
+table.index {
+  margin-top: 45px; }
+
+table.index td {
+  padding-bottom: 25px; }
+
 /**
  * Reset some basic elements
  */
