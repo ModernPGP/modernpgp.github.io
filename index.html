@@ -4,20 +4,39 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <p>This is a working group that is bringing the party to the crypto by improving the state of all things PGP for developers to end users.</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <table width="100%" cellpadding="0" cellspacing="0" class="index">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Specification</h3>
+      To be written, discussed, etc... but will follow an open standards process and will contain MUST, SHOULD, COULD style specification as well as graphical interface examples.
+    </td>
+    <td width="50%">
+      <h3>Resources</h3>
+      <ul>
+        <li><a href="https://github.com/ModernPGP/icons)">Icons</a></li>
+        <li><a href="https://github.com/ModernPGP/keys">Keys</a></li>
+        <li><a href="https://github.com/ModernPGP/QR">QR Code</a></li>
+        <li><a href="https://github.com/ModernPGP/flows">UX Flows</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Libraries</h3>
+      <ul>
+        <li><a href="http://openpgpjs.org" target="_blank">OpenPGP.js</a></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Links</h3>    
+      <ul>
+        <li><a href="/projects/">Projects</a></li>
+        <li><a href="/articles/">Articles</a></li>
+      </ul>
+    </td>
+  </tr>
+  </table>
 
 </div>

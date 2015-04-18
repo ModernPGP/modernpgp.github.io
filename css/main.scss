@@ -36,6 +36,19 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
+a.site-title img {
+  height: 30px;
+}
+
+table.index {
+  margin-top: 45px;
+}
+
+table.index td {
+  padding-bottom: 25px;
+}
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
