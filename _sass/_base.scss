@@ -202,3 +202,18 @@ pre {
         }
     }
 }
+
+
+/*** Helpers ***/
+
+h1 small,
+h2 small,
+h3 small {
+  display: block;
+  color: #b3b3b3;
+  font-size: .70em;
+}
+
+.text-center {
+  text-align: center;
+}

@@ -36,4 +36,8 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 - [LEAP](https://leap.se)
 - ...to be added...
 
+### Miscelaneous
+
+- [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+
 This is by no means an exlcusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
