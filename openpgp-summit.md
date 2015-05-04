@@ -9,7 +9,6 @@ permalink: /openpgp-summit/
 
 The following are projects that participated in the Summit and the topics that were discussed
 
-
 - [Enigmail](https://enigmail.net/home/index.php)
 - GnuPG
 - Mailpile
