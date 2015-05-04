@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1st OpenPGP Summit April 2015
+title:  OpenPGP Summit
 permalink: /openpgp-summit/
 ---
  
