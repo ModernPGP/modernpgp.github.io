@@ -1,9 +1,16 @@
 ---
 layout: page
-title:  OpenPGP Summit
+title: OpenPGP Summit
+page-title:  OpenPGP Summit
 permalink: /openpgp-summit/
+type: page
 ---
- 
+
+
+
+## Future Summits
+
+Read about future [PGP summits here](/openpgp-summit/future/)
 
 ## Projects
 
@@ -24,4 +31,3 @@ The following are projects that participated in the Summit and the topics that w
 [Read More](https://github.com/ModernPGP/terminology)
 
 **Add More** - add more...
-
