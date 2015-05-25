@@ -11,7 +11,7 @@ type: page
 A group of creators from numerous OpenPGP related projects met in Dreieich near Frankfurt, Germany
 and formed a working group to push forward the state of PGP.
 
-The first day we introduced each other and presented the various [projects](#projects-amd-people).
+The first day we introduced each other and presented the various [projects](#projects-and-people).
 The second day, we split up and discussed some [topics](#topics) in smaller groups.
 One topic was about [how to continue in future](./future.md).
        
