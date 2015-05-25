@@ -13,8 +13,8 @@ type: page
     <p>A group of creators from numerous OpenPGP related projects met in Frankfurt Germany
        and formed a working group to push forward the state of PGP.</p>
     <p>The first day we introduced each other and presented the various [projects](#projects).
-       The second day, we split up and discussed some topics in smaller groups.
-       One topic was about [how to continue in future](/openpgp-summit/future/).
+       The second day, we split up and discussed some [topics](#topics) in smaller groups.
+       One topic was about [how to continue in future](./future).
        </p>
        
 
