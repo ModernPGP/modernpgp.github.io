@@ -16,8 +16,8 @@ The second day, we split up and discussed some [topics](#topics) in smaller grou
 One topic was about [how to continue in future](./future.md).
 
 Some other links:
-* [Notes by Werner](https://www.gnupg.org/blog/20150426-openpgp-summit.html)
-* [Post by Bjarni](https://www.mailpile.is/blog/2015-04-20_OpenPGP_Email_Summit.html)
+ - [Notes by Werner](https://www.gnupg.org/blog/20150426-openpgp-summit.html)
+ - [Post by Bjarni](https://www.mailpile.is/blog/2015-04-20_OpenPGP_Email_Summit.html)
        
 
 ## Projects and People
