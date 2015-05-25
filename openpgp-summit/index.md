@@ -6,32 +6,28 @@ permalink: /openpgp-summit/
 type: page
 ---
 
-<div class="home">
+# 1st OpenPGP Summit April 18 - 19, 2015
 
-<div class="text-center">
-    <h2>1st OpenPGP Summit <small class="text-detail">April 18 - 19, 2015</small></h2>
-    <p>A group of creators from numerous OpenPGP related projects met in Frankfurt Germany
-       and formed a working group to push forward the state of PGP.</p>
-    <p>The first day we introduced each other and presented the various [projects](#projects).
-       The second day, we split up and discussed some [topics](#topics) in smaller groups.
-       One topic was about [how to continue in future](./future.md).
-       </p>
+A group of creators from numerous OpenPGP related projects met in Dreieich near Frankfurt, Germany
+and formed a working group to push forward the state of PGP.
+
+The first day we introduced each other and presented the various [projects](#projects-amd-people).
+The second day, we split up and discussed some [topics](#topics) in smaller groups.
+One topic was about [how to continue in future](./future.md).
        
 
 ## Attending Projects and People
 
 
 
-## Future Summits
-
-Read about future [PGP summits here](/openpgp-summit/future/)
-
-## Projects
+## Projects and People
 
 The following are projects that participated in the Summit and the topics that were discussed
 
+- [GnuPG](https://www.gnupg.org/)
+  - Werner Koch, Neil Mansfield
 - [Enigmail](https://enigmail.net/home/index.php)
-- GnuPG
+  - Patrick Brunschwig, Nico Josuttis  
 - Mailpile
 - ModernPGP
 - Whiteout.io
