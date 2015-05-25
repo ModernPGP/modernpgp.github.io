@@ -14,11 +14,11 @@ and formed a working group to push forward the state of PGP.
 The first day we introduced each other and presented the various [projects](#projects-and-people).
 The second day, we split up and discussed some [topics](#topics) in smaller groups.
 One topic was about [how to continue in future](./future.md).
+
+Some other links:
+* [Notes by Werner](https://www.gnupg.org/blog/20150426-openpgp-summit.html)
+* [Post by Bjarni](https://www.mailpile.is/blog/2015-04-20_OpenPGP_Email_Summit.html)
        
-
-## Attending Projects and People
-
-
 
 ## Projects and People
 
