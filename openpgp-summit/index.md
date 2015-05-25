@@ -1,10 +1,22 @@
 ---
 layout: page
-title: OpenPGP Summit
-page-title:  OpenPGP Summit
+title: OpenPGP Summits
+page-title:  OpenPGP Summits
 permalink: /openpgp-summit/
 type: page
 ---
+
+<div class="home">
+
+<div class="text-center">
+    <h2>1st OpenPGP Summit <small class="text-detail">April 18 - 19, 2015</small></h2>
+    <p>A group of creators from numerous OpenPGP related projects met in Frankfurt Germany
+       and formed a working group to push forward the state of PGP.</p>
+    <p>The first day we introduced each other and presented the various projects.
+       The second day, we split up and discussed some topics in smaller groups.</p>
+       
+
+## Attending Projects and People
 
 
 
