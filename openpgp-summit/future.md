@@ -50,7 +50,7 @@ We finally agreed on the following (we didn't all agree on all issues, but this 
   - 2  Weakly in favor of an open wiki at GnuPG
   - 1  Strongly in favor of an open wiki at GnuPG
 
-At first, we want to pushlish there material from the first summit
+- At first, we want to publish the material from the first summit
   - Agenda and attendees (nobody opted out)
   - Slides of presentations by the projects
   - Working Group topics and their outcomes
