@@ -21,13 +21,13 @@ We finally agreed on the following (we didn't all agree on all issues, but this 
   - a loosely coupled group with high transparency,
     but continue to be moderated or have a subscribe model when we meet and discuss.
   
-Thus:
-- We don't hide what we do
-- We collect knowledge
-- We follow the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule):
-  - write about topics & agenda
-  - but no statements attributed to individuals or organizations
-- But we don't establish an organization akting or making statements as a group 
+- Thus:
+  - We don't hide what we do
+  - We collect knowledge
+  - We follow the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule):
+    - write about topics & agenda
+    - but no statements attributed to individuals or organizations
+  - But we don't establish an organization akting or making statements as a group 
 
 - In particular, we make public:
   - all participating projects/tools
