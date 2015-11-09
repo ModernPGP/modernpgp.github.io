@@ -36,8 +36,14 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 - [LEAP](https://leap.se)
 - ...to be added...
 
+### APIs and Language Bindings
+
+- [PyME](https://bitbucket.org/malb/pyme) - Python 2 bindings for GPGME
+- [Python GnuPG](https://bitbucket.org/vinay.sajip/python-gnupg)
+
 ### Miscelaneous
 
 - [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+- [Confidant Mail](http://confidantmail.org)
 
-This is by no means an exlcusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
+This is by no means an exclusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
