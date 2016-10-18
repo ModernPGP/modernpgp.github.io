@@ -46,4 +46,4 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 - [caff](https://wiki.debian.org/caff) (part of the [signing-party](https://pgp-tools.alioth.debian.org/) package)
 - [Gnome Keysign](https://wiki.gnome.org/GnomeKeysign)
 
-This is by no means an exlcusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
+This is by no means an exclusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
