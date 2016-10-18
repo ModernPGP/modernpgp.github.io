@@ -9,7 +9,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 ### Email Clients
 
 - [Mailpile](https://mailpile.is)
-- [Whiteout](https://whiteout.io)
+- [Whiteout](https://whiteout.io) (no longer available as of January 1st 2016)
 - [Pixelated](https://pixelated-project.org)
 - ...to be added...
 
@@ -39,5 +39,11 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 ### Miscelaneous
 
 - [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+
+### Keysigning tools
+
+- [Monkeysign](http://web.monkeysphere.info/monkeysign)
+- [caff](https://wiki.debian.org/caff) (part of the [signing-party](https://pgp-tools.alioth.debian.org/) package)
+- [Gnome Keysign](https://wiki.gnome.org/GnomeKeysign)
 
 This is by no means an exlcusive list. If you work on or know of a relevant project and would like it included, please file and issue on [our github repo](https://github.com/ModernPGP/modernpgp.github.io).
