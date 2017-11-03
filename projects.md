@@ -8,6 +8,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 
 ### Email Clients
 
+- [Thunderbird](https://www.mozilla.org/de/thunderbird/)
 - [Mailpile](https://mailpile.is)
 - [Whiteout](https://whiteout.io) (no longer available as of January 1st 2016)
 - [Pixelated](https://pixelated-project.org)

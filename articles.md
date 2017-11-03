@@ -19,8 +19,14 @@ The following is a list of articles relating to both postive **developments** an
 - [Secure PGP Key Sync - A Proposal](https://blog.whiteout.io/2014/07/07/secure-pgp-key-sync-a-proposal/) - Whiteout, Jul 7, 2014 
 - [Making end-to-end encryption easier to use](http://googleonlinesecurity.blogspot.fi/2014/06/making-end-to-end-encryption-easier-to.html) - Google, Jun 3, 2014
 
+## Supportive
+
+- [Too Cool for PGP](https://www.mailpile.is/blog/2016-12-13_Too_Cool_for_PGP.html) - Bjarni Rúnar
+
 ## Critiques
 
+- [I'm giving up on PGP](https://blog.filippo.io/giving-up-on-long-term-pgp/) - Filippo Valsorda
+- [15 reasons not to start using PGP](http://secushare.org/PGP) - Secushare
 - [GPG and me](http://thoughtcrime.org/blog/gpg-and-me/) - Moxie Marlinspike
 - [More thoughts on working with GnuPG](https://www.mailpile.is/blog/2015-02-26_Revisiting_the_GnuPG_discussion.html) - Mailpile
 - [Some thoughts on working with GnuPG](https://www.mailpile.is/blog/2014-10-07_Some_Thoughts_on_GnuPG.html) - Mailpile
