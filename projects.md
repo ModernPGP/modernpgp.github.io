@@ -17,7 +17,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 ### Email Plugins
 
 - [Mailvelope](https://www.mailvelope.com)
-- [Engimail](https://enigmail.net)
+- [Enigmail](https://enigmail.net)
 - [GPGTools](https://gpgtools.org) 
 - [Google's End-to-End](https://github.com/google/end-to-end)
 - [Yahoo's End-to-End](https://github.com/yahoo/end-to-end)
