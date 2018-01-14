@@ -39,7 +39,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 
 ### Miscelaneous
 
-- [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+- [Schleuder encrypted mailinglist](https://schleuder.nadir.org)
 
 ### Keysigning tools
 
