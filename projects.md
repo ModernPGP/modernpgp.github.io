@@ -8,7 +8,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 
 ### Email Clients
 
-- [Thunderbird](https://www.mozilla.org/de/thunderbird/)
+- [Thunderbird](https://www.mozilla.org/thunderbird/)
 - [Mailpile](https://mailpile.is)
 - [Whiteout](https://whiteout.io) (no longer available as of January 1st 2016)
 - [Pixelated](https://pixelated-project.org)
@@ -17,7 +17,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 ### Email Plugins
 
 - [Mailvelope](https://www.mailvelope.com)
-- [Engimail](https://enigmail.net)
+- [Enigmail](https://enigmail.net)
 - [GPGTools](https://gpgtools.org) 
 - [Google's End-to-End](https://github.com/google/end-to-end)
 - [Yahoo's End-to-End](https://github.com/yahoo/end-to-end)
@@ -39,7 +39,7 @@ The following are projects that implement the [OpenPGP](https://en.wikipedia.org
 
 ### Miscelaneous
 
-- [Schleuder encrypted mailinglist](https://schleuder2.nadir.org)
+- [Schleuder encrypted mailinglist](https://schleuder.nadir.org)
 
 ### Keysigning tools
 
